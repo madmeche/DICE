@@ -1,0 +1,9 @@
+-- Functions to be used:
+-- math.ranodm
+-- math.floor
+-- for loop
+-- onClick
+-- Story Board:
+-- the user will click a button
+-- upon the click, a random dice number will be shown
+-- each button click throws a new random number
