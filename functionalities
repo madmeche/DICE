@@ -1,5 +1,7 @@
 -- Functions to be used:
--- math.ranodm
+-- math.random
+-- randomNumber
+-- array
 -- math.floor
 -- for loop
 -- onClick
