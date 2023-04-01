@@ -23,7 +23,7 @@ var dice = {
       var randomNumber10 = Math.floor(Math.random() * this.sideTen) + 1; //error thrown! rolled same number over again when in line with sideSix
       return randomNumber6;
       return randomNumber10; //error thrown! rolled same number over again when in line with sideSix
-    }
+    },
   }
   
 

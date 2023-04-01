@@ -9,8 +9,7 @@ var dice = {
       return randomNumber10; //error thrown! rolled same number over again when in line with sideSix
     },
   }
-  
-button.onclick = function() {
+
   var result= dice.roll()
   console.log(result)
 }
